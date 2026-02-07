@@ -108,7 +108,7 @@ XGBoost
 
 Imbalanced-learn (SMOTE)
 
-HTML, CSS, JavaScript
+HTML
 
 Google Colab
 
